@@ -5,7 +5,7 @@ This is a admin only hotel management system of Continental resort wherein the a
 
 ## Prerequisite
 * Use the package manager to install applications prerequisite node_modules for both backend and frontend
-```bash
+``bash
 npm i
 ```
 
